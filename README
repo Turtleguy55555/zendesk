@@ -1,2 +1,17 @@
 This is my Zendesk Ticket Viewer
 This program was written in python using the pycharm ide
+My main.py file has the entire ticket viewer code while the Tester.py file tests the code in main.py
+In all honesty, I'm not sure how to write a guide on how to run my files. I just hope you are able to take my python files and are able to run it in an ide or command prompt.
+
+I used a CLI system to view the tickets. First you will have to put in your credentials for your zendesk account. For this use mine:
+  Username: david021301@gmail.com
+  Password: Asmallturtle123!
+ 
+ From there theres a menu to view tickets. If you enter "c" you can how many tickets in total there are, if you enter "v" you can view all the tickets.
+ You can then enter "next" or "prev" to page through all the tickets.
+ 
+ If you want to view a specific ticket, you must first enter "v " then the id of a ticket. For example: "v 64" will allow you to view extra details on that ticket ONLY IF ticket
+ id 64 is in the current page of tickets. (You can check this by looking at the id of the ticket in the current ticket list)
+ 
+ You can run my tests seperately as well. I used python's unittest. In pycharm, there's a way to run unittests (I think it should default to this setting if you run my Tester.py file) 
+ which will show you a summary of my tests.
