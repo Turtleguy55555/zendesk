@@ -7,7 +7,7 @@ I used a CLI system to view the tickets. First you will have to put in your cred
   Username: david021301@gmail.com
   Password: Asmallturtle123!
  
- From there theres a menu to view tickets. If you enter "c" you can how many tickets in total there are, if you enter "v" you can view all the tickets.
+ From there theres a menu to view tickets. If you enter "v" you can view all the tickets.
  You can then enter "next" or "prev" to page through all the tickets.
  
  If you want to view a specific ticket, you must first enter "v " then the id of a ticket. For example: "v 64" will allow you to view extra details on that ticket ONLY IF ticket
